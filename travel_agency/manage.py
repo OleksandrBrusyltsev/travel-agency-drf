@@ -21,3 +21,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# https://github.com/unfoldadmin/turbo/blob/main/backend/api/settings.py
