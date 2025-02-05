@@ -8,3 +8,4 @@ wheels/
 
 # Virtual environments
 .venv
+git commit --amend --author="Oleksandr <Brusiltsev1@gmail.com>"
